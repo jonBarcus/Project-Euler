@@ -1,3 +1,8 @@
+# https://projecteuler.net/problem=2
+# This method will return the sum of even
+# numbered fibonacci numbers not exceeding the
+# number given to the method
+
 def fibonacci(max_number)
   @fib_array = [1,2]
   @even_array = [2]
