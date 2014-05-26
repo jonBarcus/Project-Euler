@@ -5,7 +5,6 @@
 require 'prime'
 
 def prime_factor(number)
-  @factors_array = []
   @prime_array = []
   @number = number
   i = 1
